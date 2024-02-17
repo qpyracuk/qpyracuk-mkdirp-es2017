@@ -1,16 +1,11 @@
 {
-  "name": "@qpyracuk/mkdirp-for-node-8",
-  "description": "Universal iterator for all data types",
+  "name": "@qpyracuk/mkdirp-es2017",
+  "description": "mkdirp package with compilation configuration for nodejs 8",
   "version": "0.1.0",
   "author": "Pobedinskiy David (qpyracuk)",
   "license": "Apache-2.0",
   "keywords": [
-    "universal-iterator",
-    "iterator",
-    "object-iterator",
-    "depth-first",
-    "breadth-first",
-    "sequence"
+    "mkdirp"
   ],
   "type": "module",
   "main": "./dist/index.cjs",
@@ -23,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qpyracuk/qpyracuk-iterator"
+    "url": "git+https://github.com/qpyracuk/qpyracuk-mkdirp-es2017"
   },
   "bugs": {
-    "url": "https://github.com/qpyracuk/qpyracuk-iterator/issues"
+    "url": "https://github.com/qpyracuk/qpyracuk-mkdirp-es2017/issues"
   },
-  "homepage": "https://github.com/qpyracuk/qpyracuk-iterator#README",
+  "homepage": "https://github.com/qpyracuk/qpyracuk-mkdirp-es2017#README",
   "devDependencies": {
     "@types/node": "^20.11.5",
     "@typescript-eslint/eslint-plugin": "^6.19.1",
